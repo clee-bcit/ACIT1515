@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 b5038502f611ea491474e8b50f869099c9dc8de0 Chris Lee <jincana96@gmail.com> 1636571050 -0800	commit (initial): completed create_contacts.html
+b5038502f611ea491474e8b50f869099c9dc8de0 0000000000000000000000000000000000000000 Chris Lee <jincana96@gmail.com> 1636571099 -0800	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 b5038502f611ea491474e8b50f869099c9dc8de0 Chris Lee <jincana96@gmail.com> 1636571099 -0800	Branch: renamed refs/heads/master to refs/heads/main
+b5038502f611ea491474e8b50f869099c9dc8de0 0000000000000000000000000000000000000000 Chris Lee <jincana96@gmail.com> 1636571123 -0800	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 b5038502f611ea491474e8b50f869099c9dc8de0 Chris Lee <jincana96@gmail.com> 1636571123 -0800	Branch: renamed refs/heads/main to refs/heads/master
+b5038502f611ea491474e8b50f869099c9dc8de0 b61d904413f1e0719891d8f85558f7b198e59ccd Chris Lee <jincana96@gmail.com> 1636571579 -0800	commit: modified & completed contacts.html
+b61d904413f1e0719891d8f85558f7b198e59ccd 051c7a6e893b1eebe0f9a9e3d77e33d77ddc194d Chris Lee <jincana96@gmail.com> 1636572956 -0800	commit: modified & completed favorite_contacts.html
+051c7a6e893b1eebe0f9a9e3d77e33d77ddc194d 0d2528e35b1dac09f0032d28a61338e0de85f9f3 Chris Lee <jincana96@gmail.com> 1636573436 -0800	commit: modified styles.css
+0d2528e35b1dac09f0032d28a61338e0de85f9f3 f27f2040d6eddac6e2e16cf3e1ca04f143f127ad Chris Lee <jincana96@gmail.com> 1636762356 -0800	commit: modified some errors in html/css
+f27f2040d6eddac6e2e16cf3e1ca04f143f127ad 572852e2641d6ed048bde34e1e825b03e006ebf7 Chris Lee <jincana96@gmail.com> 1636763316 -0800	commit: fixed error, starting flex

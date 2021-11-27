@@ -1,0 +1,235 @@
+* {
+  font-family: 'Alumni Sans', sans-serif;
+  box-sizing: border-box;
+  font-size: 2.5vw;
+
+  }
+  
+  body {
+    margin: 0;
+    height: 100vw;
+    background: linear-gradient(to right,
+    #2a283d 30%, #fffaf3 30%, #fffaf3 100%);
+
+  }
+  
+  nav {
+    margin: 0;
+    width: 200px;
+    text-align: right;
+    
+  }  
+  ul {
+    float: left;
+  }
+  li {
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    height: 100%;
+    display: inline;
+    list-style: inside;
+  }
+  
+  li a {
+    display: block;
+    padding: 0px 16px;
+    text-decoration: none;
+  }
+
+  a:link {
+    color: #e0def4;
+  }
+
+  
+  a:hover {
+    color: #211f2d;
+    ;
+  }
+  
+  a:visited {
+    color: #e0def4;
+  }
+  
+  a:hover {
+    color: #3f3c53;
+  }
+  input {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+  }
+
+  p {
+
+  }
+  
+  img {
+
+  }
+  
+  div {
+
+  }
+
+  #left {
+    margin: 0;
+    float:left;
+    width: 30vw;
+    height: 100vw;
+  }
+
+  #right {
+    margin: 0;
+    float: right;
+    width: 68vw;
+  }
+
+  #header {
+    font-size: 2.5rem;
+  }
+
+  #subheader {
+    font-size: 1.0rem;
+  }
+
+
+  #contact_button {
+    width: 29.8%;
+    cursor: pointer;
+  }
+
+  #contact_save {
+    border: none;
+    width: 25vw;
+    background-color: #31748f;
+    color: #e0def4;
+    cursor: pointer;
+
+  }
+
+  #contact_cancel {
+    width: 12.3vw;
+    border: none;
+    background-color: #eb6f92;
+    color: #e0def4;
+    cursor: pointer;
+
+  }
+
+  #add_button {
+    border-style: none;
+    width: 0.1%;
+    height: 0.1%;
+    }
+  #contact_img {
+    border-radius: 50%;
+    float: right;
+    margin-top: 2vw;
+    margin-right: 1vw;
+  }
+  #contacts_box {
+    width: 20vw;
+    height: 12vw; 
+    border: 1px solid;
+    margin: 10px;
+    float: right;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  #create_contacts {
+    float: top;
+    margin-top: 5vw;
+    margin-left: 5vw;
+  } 
+
+  #create_img {
+    width: 7.4vw;
+    border-radius: 50%;
+    margin-top: 2vw;
+    margin-right: 2vw;
+
+    }
+
+  #fav_contact {
+    width: 30vw;
+    height: 30vw; 
+    margin: 10px;
+  }
+
+  #fav_name {
+    width: 28vw;
+    height: 10vw;
+    font-size: 5vw;
+    margin-top: 2vw; 
+    display: flex;
+    text-align: left;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  #fav_image {
+  }
+
+  #fav_email {
+    margin-bottom: 2vw;
+    margin-left: 2vw;
+  }
+
+  #fav_phone {
+    margin-bottom: 2px;
+    margin-left: 2vw;
+
+  }
+
+  #fav_address {
+    margin-left: 2vw;
+
+  }
+
+
+  #fav_edit {
+    width: 8vw;
+    margin-right: 1vh;
+    margin-left: 4vh;
+    border-style: none;
+    background-color: #31748f;
+    color: #e0def4;
+    cursor: pointer;
+
+  }
+
+  #fav_close {
+    width: 10vw;
+    border-style: none;
+    background-color: #6e6a86;
+    color: #e0def4;
+    cursor: pointer;
+
+  }
+
+  #plus_icon {
+    width: 2.5vw;
+    height: 2.5vw;
+  }
+
+  #sumbit_plus {
+    border: none;
+    cursor: pointer;
+    width: 0;
+    height: 0;
+  }
+
+  #user_icon {
+    width: 7vw;
+    height: 7vw;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #6e6a86;
+  }
+  /* For Mobile */
+
+  
